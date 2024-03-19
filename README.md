@@ -1,1 +1,2 @@
 # paddle_ocr_tensorrt
+基于paddleocr的tensorrt pipline搭建
