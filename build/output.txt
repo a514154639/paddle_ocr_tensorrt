@@ -1,0 +1,4 @@
+3
+0	 rec text: 核载39人  rec score: 0.997266 
+1	 rec text: 12328.  rec score: 0.811198 
+2	 rec text: 重  rec score: 0.139893 

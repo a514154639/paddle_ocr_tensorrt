@@ -1,0 +1,1 @@
+./ocr --det_engine_dir="../myEngines/det_fp16.engine" --rec_engine_dir="../myEngines/ch_rec_v3_fp16.engine" --rec_char_dict_path="../myModels/dict_txt/output.txt" --rec_batch_num=1 --det=true --cls=false --rec=true --image_dir="../testImgs/2.png" --output="./output/"
